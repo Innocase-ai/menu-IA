@@ -1,0 +1,6 @@
+{
+  "name": "Extracteur de Menu IA",
+  "description": "Téléversez une image d'un menu de restaurant et convertissez-la en une page HTML interactive, en utilisant l'IA pour analyser le contenu et en extrayant les couleurs dominantes de l'image pour un style personnalisé.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
